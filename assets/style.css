@@ -1,6 +1,6 @@
 .container{
        background-color:lightgrey;
-       padding-bottom: 10px;
+       padding-bottom: 5%;
 }
 .Navigation{
     
@@ -83,10 +83,10 @@
     
     .hero
     {
-        width:961px;
-        height:650px;
+        width:auto;
+      
         background-color:white;
-        margin-left: 75px;
+       
         border-style:solid;
         border-radius: 5px;
         border-width: .5px;
@@ -163,6 +163,10 @@
     }
     .form-control {
         width: 90%;
+    }
+    .form-group {
+        margin-bottom: 1rem;
+        margin-top: 3%;
     }
     
 
