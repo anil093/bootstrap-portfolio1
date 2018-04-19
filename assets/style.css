@@ -157,6 +157,26 @@
         color:white;
     }
     /* contact */
+    .f1 textarea {
+        margin-left: 3%;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+    .form-control {
+        width: 90%;
+    }
+    
+
+    label {
+        display: inline-block;
+        margin-bottom: .5rem;
+        margin-left: 2%;
+    }
+    .form-control {
+        margin-left: 3%;
+    }
+    .btn {
+        margin-left: 3%;
+    }
     .f1
     {
         margin-left:100px;
@@ -165,8 +185,8 @@
         
     }
     .f1 h4{
-        margin-left:50px;
-        margin-right:50px;
+        margin-left:2%;
+        margin-right:2%;
         padding-bottom:30px;
         padding-left:20px;
         padding-top:40px;
@@ -204,11 +224,7 @@
         padding:7px;
     }
     
-    .f1 textarea{
-        margin-left:70px;
-        font-family: 'Georgia', Times, Times New Roman, serif;
-      
-    }
+   
        /*portfolio*/
      .container1
      {
@@ -244,7 +260,7 @@
     }
     .img-text
     {
-       width: 90%;
+       width: 89%;
        height:25px;
        position: absolute;
        margin-top:40%;
